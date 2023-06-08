@@ -9,3 +9,9 @@ To create the virtual Environment
    
  To get all the packages 
    pip freeze
+   
+ To get all the packages in the requirement.txt
+   pip freeze > requirement.txt
+   
+ To install the packages that are in the requirement.txt file 
+   pip install -r requirement.txt
