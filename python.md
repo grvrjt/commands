@@ -1,8 +1,8 @@
-To create the virtual Environment 
+# To create the virtual Environment 
    python3 -m venv myenv
 
-To Activate this    
+# To Activate this    
    source myenv/bin/activate
    
-To Deactivate
+ # To Deactivate
    deactivate
